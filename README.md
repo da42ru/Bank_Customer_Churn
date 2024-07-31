@@ -25,6 +25,6 @@ We searched for ideal hyperparameter settings across 10 models with Optuna. We t
 ## Reports
 
 - best_model_metrics.pdf (CatBoost Classifier, feature importances, hyperparameters, train / test recall and f1-score)
-- final_report.pdf (15-page written report of project summary and key findings)
-- presentation.pdf (32-slide PowerPoint presentation of project summary and key findings)
+- final_report.pdf (16-page written report of project summary and key findings)
+- presentation.pdf (33-slide PowerPoint presentation of project summary and key findings)
 - project_proposal.pdf (original project proposal)
