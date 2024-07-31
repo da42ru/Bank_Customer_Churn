@@ -6,8 +6,8 @@ This project explores a classification problem for the hypothetical Fairway Bank
 
 - bank.csv (original dataframe of 10K rows and 18 columns)
 - bank_2.csv (cleaned dataframe imported for EDA with 10K rows and 15 columns)
-- bank_3.csv (model-ready dataframe with dummy encoded numerical values for all columns, 10K rows by 18 columns)
-- bank_4.csv (final dataframe with binned numerical variables, includes 2 umap embedding features, 10K rows by 18 colums)
+- bank_3.csv (model-ready dataframe with dummy encoded numerical values for all columns, 10K rows and 18 columns)
+- bank_4.csv (final dataframe with binned numerical variables, includes 2 umap embedding features, 10K rows and 18 colums)
 
 ## Notebooks
 
