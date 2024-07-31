@@ -18,7 +18,7 @@ This project explores a classification problem for the hypothetical Fairway Bank
 - 04_modeling.ipynb (remove 'complain' feature, probability threshold adjustment)
 - 05_modeling.ipynb (final model evaluation and comparison, feature importances)
 
-### Hyperparameter Tuning
+## Hyperparameter Tuning
 
 We searched for ideal hyperparameter settings across 10 models with Optuna. We tuned 2 versions of each model - 1 that optimized recall and 1 that optimized f1-score, for a total of 20 notebooks (1 per model per optimization metric). Ultimately we opted for all f1-score optimized model versions, given a larger overall gain in model precision as compared to the recall-optimized versions which only added a slight gain in recall.
 
