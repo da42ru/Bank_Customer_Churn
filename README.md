@@ -12,7 +12,7 @@ This project explores a classification problem for the hypothetical Fairway Bank
 ## Notebooks
 
 - 00_data_wrangling.ipynb (initial data cleanliness assessment and review of distributions)
-- 01_eda.ipynb (review of correlations and pairwise scatter / count plots of between features)
+- 01_eda.ipynb (review of correlations and pairwise scatter / count plots between features)
 - 02_preprocessing.ipynb (dummy encoding, value binning, dimensionality reduction, cluster analysis)
 - 03_modeling.ipynb (discover of golden feature: 'complain')
 - 04_modeling.ipynb (remove 'complain' feature, probability threshold adjustment)
